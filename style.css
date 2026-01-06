@@ -1,0 +1,16 @@
+        p {
+                font-size: 50px;
+            }
+        #nice {
+            color: rgb(5, 76, 255);
+            font-size: 30px;
+            background-color: rgb(0, 0, 0) ;
+        }   
+        #good {
+            color: rgb(73, 152, 254);
+            font-size: 20px;
+        }
+        .good {
+            color: rgb(197, 218, 248);
+            font-size: 20px;
+        }
